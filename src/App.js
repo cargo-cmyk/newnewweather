@@ -9,10 +9,7 @@ export default function App() {
         <Weather defaultCity="New York" />
 
         <footer>
-          This project was coded by{" "}
-    
-            Carolin{" "}
-          and is{" "}
+          This project was coded by Carolin and is{" "}
           <a
             href="https://cargo-cmyk.github.io/newnewweather/"
             target="_blank"
@@ -21,6 +18,11 @@ export default function App() {
             open-sourced on GitHub
           </a>{" "}
           and{" "}
+          <a
+            href="https://github.com/cargo-cmyk/newnewweather"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             hosted on Github
           </a>
         </footer>
